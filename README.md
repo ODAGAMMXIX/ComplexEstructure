@@ -2,6 +2,9 @@
 Complexidade de Algoritmos de Ordenação - Estrutura de Dados
 online Python interpreter https://www.tutorialspoint.com/execute_matplotlib_online.php
 
+![Texto Alternativo](URL-da-Imagem)
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
