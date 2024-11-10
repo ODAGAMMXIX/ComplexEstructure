@@ -22,9 +22,9 @@ o_n2 = n**2
 plt.figure(figsize=(10, 6))
 plt.plot(n, o_1, label='O(1)')
 plt.plot(n, o_log_n, label='O(log n)')
-plt.plot(n, o_n, label='O(n)')
-plt.plot(n, o_n_log_n, label='O(n log n)')
-plt.plot(n, o_n2, label='O(n^2)')
+plt.plot(n, o_n, label='O(n):Bubble,Insertion,MELHOR CASO')
+plt.plot(n, o_n_log_n, label='O(n log n):Merge,HeapTODOS; Melhor caso de Quick, Shell; Caso Médio: Quick')
+plt.plot(n, o_n2, label='O(n^2)SELECTION: TODOS; CASO MÉDIO: Bubble, Insertion; PIOR CASO: Bubble, Insertion, Selection, Quick, Shell')
 
 # Adicionando títulos e legendas
 plt.title('Complexidades de Algoritmos')
