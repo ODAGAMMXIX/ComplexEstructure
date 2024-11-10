@@ -2,7 +2,7 @@
 Complexidade de Algoritmos de Ordenação - Estrutura de Dados
 online Python interpreter https://www.tutorialspoint.com/execute_matplotlib_online.php
 
-![Texto Alternativo](URL-da-Imagem)
+![Gráfico de Complexidade - Algoritmos de Ordenação ](https://github.com/ODAGAMMXIX/ComplexEstructure/blob/main/DEV-ORDENACAO-COMPLEXIDADE.jpg)
 
 
 import matplotlib.pyplot as plt
