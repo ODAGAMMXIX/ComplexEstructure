@@ -1,4 +1,4 @@
-# ComplexEstructure
+# Complexity of Sorting Algorithm - Data Structure
 Complexidade de Algoritmos de Ordenação - Estrutura de Dados
 online Python interpreter https://www.tutorialspoint.com/execute_matplotlib_online.php
 
